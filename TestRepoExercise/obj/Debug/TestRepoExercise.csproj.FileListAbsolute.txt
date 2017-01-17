@@ -1,0 +1,6 @@
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\bin\Debug\TestRepoExercise.exe.config
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\bin\Debug\TestRepoExercise.exe
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\bin\Debug\TestRepoExercise.pdb
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\obj\Debug\TestRepoExercise.csprojResolveAssemblyReference.cache
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\obj\Debug\TestRepoExercise.exe
+C:\Users\victo\Desktop\TestRepo\exercise-repo\TestRepoExercise\obj\Debug\TestRepoExercise.pdb
